@@ -1,0 +1,13 @@
+*.o
+*.map
+*.tar
+*.elf
+*.bin
+*.log
+*.pcap
+*.iso
+
+isodir/*
+.vscode
+.trunk
+.idea
